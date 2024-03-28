@@ -17,7 +17,7 @@ class ChatBot:
         return response['choices'][0]['message']['content']
 
 # Example usage
-api_key = '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'
+api_key = 'sk-7Ak7bPaw7KqP1KVJ87。。。。。。1RB0q6Z7Ms1RTI5q1lyN'
 chatbot = ChatBot(api_key)
 while True: 
     user_question = input("\n我:")
